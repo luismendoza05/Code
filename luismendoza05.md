@@ -13,8 +13,10 @@ I'm a Full Stack Web student at **Undefined Shell Academy** by Guillermo Rodas.
 | cp       | Allows to copy files              |
 
 
-| Alias            | Description                       |
-| ---------------- | --------------------------------- |
-| alias rm="trash" | Avoid permanent deletion of files |
-| alias cl="clear" | Clean the terminal                |
-| alias cl="clear" | Clean the terminal                |
+### Alias
+```bash
+alias rm="trash"
+```
+```bash
+alias cl="clear"
+```
